@@ -1,6 +1,13 @@
 # Website-New
 This is My personal website,
 
+Demo
+https://github.com/ROTICHBRIANK/Website-New
+
+Contact-Info
+Email: br9753083@gmail.com
+Phone No: 0714435414
+
 ##Features
 Responsive design
 Contact form
